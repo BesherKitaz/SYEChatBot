@@ -1,0 +1,51 @@
+The SAT is a standardized test used by most colleges and universities in the U.S. to make admissions decisions. Some international universities will also consider SAT scores, but it is rarely required unless the university is a satellite campus of a U.S. university (Bard Berlin, NYU Abu Dhabi, etc). The purpose of the SAT is to measure a high school student’s readiness for college, and provide colleges with one common data point that can be used to compare all applicants. You register for the SAT on the CollegeBoard website.
+Starting in March 2023, all international administrations of the SAT will be
+The paper-based SAT is no longer available outside the United States or U.S. Territories.
+You can find answers to frequently asked questions about the digital SAT
+CollegeBoard made some big changes to the SAT in 2016. For study materials, make sure you are aware of the date they were made, and whether they are helping you to prepare for the new test or the old test.
+For the most up-to-date information, you can use the tool on
+this page of the official College Board website
+to find test centers offering the SAT on different test dates.
+The digital SAT is about 2 hours long. (The paper-based SAT was 3 hours long.)
+Each section of the SAT is scored on a 200 to 800 point scale. Your total SAT score is the sum of your section scores. The highest possible SAT score is 1600.
+CollegeBoard will release the test dates at this link.
+All SYE students will be notified of when they will be taking the SAT; this is often in October of each year.
+We recommend that you take the SAT in September, October, or November. This will give you the opportunity to retake them in December if your scores are not as high as you wanted them to be (though unfortunately, we cannot guarantee that we will financially cover retakes).
+What if the schools I'm applying to are test optional?
+However, we still recommend that all SYE students take the SAT if it is offered in your country of residence
+, because a small number of schools still do require the standardized test, and you want to give yourself the option of applying to these schools. Even if a school is test optional, we still recommend submitting your test scores if within or above the average, as they are proof of your English language abilities and of your ability to perform in line with native English speakers.
+When registering, students can indicate four universities to which they would like their scores sent. These four score reports are included in the cost of registration. You may or may not have created a finalized college list by the time that you register for the SAT. When registering, we ask you to add schools that you are confident you will end up applying to. In theory, if you want to submit scores to more than four universities, you will either need to self report your scores, or pay $12 each to send the scores. If
+is an option, you MUST follow the steps to do so. Most years SYE can cover the cost if it is not possible for it to be waived.
+to learn more about the score sending process.
+This section has focused on the SAT -- the oldest and most widely accepted standardized test used for U.S. colleges and universities. However, it is also worth mentioning the ACT, another standardized test that is accepted by most schools. The ACT, like the SAT, is a multiple-choice, pencil-and-paper test. There are two significant differences between these tests: (1) timing, and (2) content and section breakdown. First, the time given to students on the ACT is slightly shorter than the time given for the SAT, even though the ACT includes more questions (the SAT features 154 questions, while the ACT features 215 questions). For this reason, quick test-takers may fare better on the ACT. Second, while the SAT includes just three main components (reading, math, and writing), the ACT includes four (reading, English, math, and science). The SAT does test scientific skills throughout, but it does not have an entire section dedicated to science like the ACT. In addition, the specific content tested in the reading and math sections varies in key ways. (Please see
+for more information on this last point, and
+College Essay Guy’s post on how to decide between these two tests
+*Please note that there are fewer freely available resources for the ACT, and fewer testing locations abroad. If you are seriously considering this option, please speak to your SYE mentor and/or the SYE staff.
+To begin preparing for the SAT, you can take a diagnostic test to determine your current overall level of preparation as well as your strengths and weaknesses. There are two ways to do this:
+Bluebook is the application you'll use to take the real digital SAT. You will need a laptop.
+First, download and install Bluebook at this link:
+If you do not already have one, create a CollegeBoard account:
+. Select “Student” as the account type. Make sure to type your information (especially your name) exactly the way it appears on your legal documents. This is the same account you will use to take the real SAT.
+Open Bluebook and log into your CollegeBoard account.
+Click “Full-Length Practice Test” and follow the instructions on the screen to take your test.
+https://mypractice.collegeboard.org/login
+FULL-LENGTH OFFICIAL PRACTICE TESTS IN BLUEBOOK. DO NOT TAKE ALL THESE TESTS AT ONCE.
+Use an official full-length practice test PDF
+You will need a phone or laptop, a calculator, something to time yourself with, some paper, and a writing utensil.
+https://satsuite.collegeboard.org/practice/practice-tests/paper
+Set a timer for each module: 39 minutes for Reading and Writing Module 1; 39 minutes for Reading and Writing Module 2; 43 minutes for Math Module 1; and 43 minutes for Math Module 2.
+Important: You can skip from question to question within a module, but you cannot skip ahead to the next modules or go back to questions in a previous module. You can use a calculator at any point in the Math section. (The old SAT had calculator and no-calculator sections, but the new SAT allows calculators at any point.)
+Grade your test using the corresponding documents Scoring Your Paper SAT Practice Test and The SAT Practice Test Answer Explanations, available here:
+https://satsuite.collegeboard.org/practice/practice-tests/paper
+. When calculating your score, only count the questions you answered within the time limit.
+NOTE THERE ARE ONLY 7 FULL-LENGTH OFFICIAL PDF PRACTICE TESTS FOR THE DIGITAL SAT. DO NOT TAKE ALL THESE TESTS AT ONCE.
+When deciding which practice tests to take, you should also consider that there is an overlap in the questions on the PDF and BlueBook practice tests.
+Guidelines on taking the SAT Diagnostic Test
+Do not prepare for the Diagnostic Test! We're trying to get a sense of where you are starting coming into the SYE program so we can see how much you grow!!!
+Take the Diagnostic Test all in one sitting and complete each section within the allotted time. This will give you a sense of what test day will be like.
+If you do not complete a section, please indicate what questions you completed in the allotted time. You are welcome to complete the rest, although it is not required.
+You should respond to all questions, even if you don't know the right answer and have to guess. We recommend keeping a list of all questions that you struggled with. Even if you get them right, it can be helpful to know what types of questions to review.
+Khan Academy has partnered with CollegeBoard to provide official test preparation for the new digital SAT.
+is an SAT and ACT prep service. Their blog features
+advice for students about how to best prepare for these tests.
+We have collected different textbooks over the years. This folder can be a bit overwhelming which is why we encourage you to pace yourselves using Khan Academy - link above.

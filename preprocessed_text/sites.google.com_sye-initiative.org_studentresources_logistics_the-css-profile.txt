@@ -1,0 +1,18 @@
+The CSS is an online application to determine eligibility for non-federal financial aid, meaning that it will be the main form you fill out to be considered for need-based and merit-based financial aid. The colleges, universities and scholarships that use CSS profile as part of their financial aid evaluation are listed
+. It is administered by the College Board and opens on October 1
+. Note that some schools have international student financial certification documents in addition to the CSS profile.
+Before beginning the process, check the submission process (waivers) for each of your university. In some cases, you may be asked to fill out an alternative form.
+This varies from university to university. It is highly unlikely that your CSS profile will be due before the application deadline, but it may be due on the deadline. Most universities have the CSS profile due after the application deadline, but do not assume that this is the case.
+Do I have to pay to submit the CSS profile?
+There is a fee to pay for submitting the CSS profile, but SYE will provide waivers or cover the cost of submission. Some schools also have specific means of waiving the CSS profile fees, which are listed in the SYE waivers spreadsheet.
+What do I do if there is no equivalent of the thing they are asking for in the country I live in?
+Many of your responses will be zero, and this is ok. You want to try your hardest to figure out the equivalent to what they are asking in the country you live in, but often there isn’t one.
+I don’t have the documents requested, but they do exist. Can I not upload requested documents?
+You have to try your hardest to find the documents they are requested. Are they asking for a bank statement? Do everything you can to get to that bank for a print out. Do you need a statement of your parent’s annual salary? Ask your parents to request a document with this information from their employer. If you have exhausted all other options and have still not been able to obtain the documents, you can write a statement explaining the situation and upload it in the “special circumstances” section.
+Child support is an ongoing, periodic payment made by a parent for the financial benefit of a child following the end of a marriage. Specifically, the marriage ends in divorce or separation (not from the death of a parent or other such circumstances)
+Pension is the money that employers pay to the employees after they retire.
+How do I answer “select the student’s parent’s federal tax return status for 2021.”?
+If you and your parents live outside of the U.S., your response will almost certainly be “not filed, and not required to file a tax return.” Almost all questions that include a “federal” program will only be relevant to those with some sort of legal status in the U.S.
+There are little yellow boxes that pop up on the side of the screen when you select something. They have useful information about your selection.
+To request a CSS profile code to submit your profile, please fill out the payment submission form with the list of universities to which you will be submitting your CSS profile. SYE will provide you with a unique code for each submission. To successfully submit the profiles, please follow these instructions closely:
+On the CSS Profile Fee Payment Code page, students must enter the 6 digit code in the ‘Fee Payment Code’ box and select ‘Wild Code Program Code’ in the College/Program drop-down list box. Additionally, these codes must be used as one code per one school (rather than one code per each profile).
